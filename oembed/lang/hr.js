@@ -1,0 +1,26 @@
+CKEDITOR.plugins.setLang('oembed',
+  'hr', {
+          title: "Umetanje medijskog sadržaja (fotografija, videozapis, zvučna datoteka ili obogaćeni sadržaj)",
+          button: "Umetanje medijskog sadržaja s vanjskih mrežnih mjesta",
+          pasteUrl: "Zalijepite URL (podržani su i skraćeni URL-ovi) s nekog od podržanih mrežnih mjesta (npr. YouTube, Flickr, Qik, Vimeo, Hulu, Viddler, MyOpera itd.).",
+          invalidUrl: "Unesite valjani URL.",
+          noEmbedCode: "Nije pronađen kod za umetanje ili mrežno mjesto nije podržano.",
+          url: "URL <span class='oembed-required'>[obvezno]</span>:",
+          width: "Širina:",
+          height: "Visina:",
+          widthTitle: "Širina umetnutog sadržaja",
+          heightTitle: "Visina umetnutog sadržaja",
+          maxWidth: "Maks. širina:",
+          maxHeight: "Maks. visina:",
+          maxWidthTitle: "Maksimalna širina umetnutog sadržaja",
+          maxHeightTitle: "Maksimalna visina umetnutog sadržaja",
+          resizeType: "Vrsta promjene veličine (samo videozapisi):",
+          noresize: "Nema promjene veličine (upotrijebiti zadano)",
+          responsive: "Automatski prilagođena promjena veličine",
+          custom: "Specifična promjena veličine",
+          noVimeo: "Vlasnik ovog videozapisa postavio je ograničenja za domenu i nećete je moći umetnuti u svoje mjesto.",
+          Error: "Dohvaćanje medijskog sadržaja nije uspjelo. Pokušajte s drugim URL-om.",
+          titleError: "Naziv medija je obvezan kako bi se zadovoljili standardi pristupačnosti.",
+          embedTitle: "Naslov (ili atribut aria) <span class='oembed-required'>[obvezno]</span>:"
+  }
+);
