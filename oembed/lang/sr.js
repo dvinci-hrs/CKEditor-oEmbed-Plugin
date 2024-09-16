@@ -21,6 +21,7 @@ CKEDITOR.plugins.setLang('oembed',
     noVimeo: "Vlasnik ovog video snimka je postavio ograničenja domena i nećete moći da ga ugradite na svoj veb-sajt.",
     Error: "Preuzimanje medijskog sadržaja nije uspelo. Pokušajte sa drugom URL adresom.",
     titleError: "Naziv medija je obavezan da bi se ispunili standardi prilagođenog pristupa.",
-    embedTitle: "Naslov (ili oznaka arije) <span class='oembed-required'>[Obavezno]</span>:"
+    embedTitle: "Naslov (ili oznaka arije) <span class='oembed-required'>[Obavezno]</span>:",
+    none: "Nema"
   }
 );
